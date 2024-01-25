@@ -25,3 +25,8 @@
 .h16,.h17,.h18,.h30{
     font-family: Chandas;
 }
+.p12,.p13,.p14{
+    float: right;
+    width: 300px;
+    padding: 10px;
+}
